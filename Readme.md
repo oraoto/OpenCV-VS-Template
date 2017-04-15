@@ -1,0 +1,1 @@
+A Visual Studio project template for OpenCV
